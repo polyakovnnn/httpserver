@@ -1,0 +1,5 @@
+/home/asus/MonoDroid/http/httpserver/httpserver/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/asus/MonoDroid/http/httpserver/httpserver/bin/Release/httpserver.exe.mdb
+/home/asus/MonoDroid/http/httpserver/httpserver/bin/Release/httpserver.exe
+/home/asus/MonoDroid/http/httpserver/httpserver/obj/x86/Release/httpserver.exe
+/home/asus/MonoDroid/http/httpserver/httpserver/obj/x86/Release/httpserver.exe.mdb

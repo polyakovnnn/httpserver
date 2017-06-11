@@ -1,0 +1,2 @@
+#! bash.sh
+./httpserver.exe
